@@ -1,0 +1,67 @@
+.subdata
+{
+  display: flex;
+}
+.content{
+ background-color:  hsl(244, 38%, 16%);
+ 
+ border-radius:5px 0px 0px 5px ;
+ padding-left: 7%;
+ padding-right: 7%;
+ padding-top: 5%;
+ 
+ 
+}
+#desc
+{
+  padding-right: 15%;
+}
+p{
+  font-family: 'Lexend Deca', sans-serif;
+}
+.data
+{
+  display: flex;
+}
+span{
+  color:violet;
+}
+h1
+{
+  color:white ;
+  font-family: 'Inter', sans-serif;
+  
+  font-weight: 700;
+}
+p{
+  color: white;
+}
+img{
+  border-radius:0px 5px 5px 0px;
+}
+body
+
+{
+
+  
+  margin-top: 10%;
+  background-color: hsl(233, 47%, 7%);
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.img
+{
+  filter:sepia();
+}
+
+.stat
+{
+  color: hsl(0, 0%, 100%);
+}
+p{
+  color:hsla(0, 0%, 100%, 0.75);
+}
+.statp
+{
+  color: hsla(0, 0%, 100%, 0.6);
+}
